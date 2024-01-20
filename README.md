@@ -1,5 +1,7 @@
 # Project Proposal on Language Exchange Platform
 
+![cover page_page-0001](https://github.com/prantodebnath/Language-Exchange-Platform/assets/157202254/e5115768-3b67-444c-8095-f00c6825731f)
+
 ## 1. Executive Summary:
 This project proposes the development of a Language Exchange Platform, an online platform designed to facilitate language learning through collaborative language exchange. Users will have the opportunity to connect with native speakers of the language they wish to learn, creating an immersive and interactive learning experience.
 
